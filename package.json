@@ -1,8 +1,8 @@
 {
     "name": "ProConsulting",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "keywords": ["util", "functional", "server", "client", "browser"],
-    "author": "TejasPeruri",
+    "author": "Saurav",
     "contributors": [],
     "dependencies": {}
 }
